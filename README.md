@@ -12,3 +12,5 @@ Original links:
 
 Original link:
   * [2017](https://drive.google.com/open?id=1weG783mBt0K3b4hptPMnx4rgEH5sbOEL)
+
+Compressed with **[7zip](https://www.7-zip.org/)**
